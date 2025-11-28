@@ -17,7 +17,7 @@ cd "${HOME}/.dotfiles"
 
 - Clone this repo
 ```bash
-git clone git@github.com:cn246-dotfiles/less.git
+git clone git@github.com:cn246-dotfiles/pylint.git
 ```
 
 - Stow the dotfiles:
